@@ -1,18 +1,30 @@
-# Bootstrap-Portfolio
+**Portfolio - AME**
+
+**repositories**
+
+    - psychic game
+        - https://anthonyme0328.github.io/WordGuessGame/
+        - https://github.com/Anthonyme0328/WordGuessGame
+
+    - magic gem game
+        - https://anthonyme0328.github.io/unit-4-game/
+        - https://github.com/Anthonyme0328/unit-4-game
+
+    - trivia game
+        - https://anthonyme0328.github.io/Trivia-game/
+        - https://github.com/Anthonyme0328/Trivia-game
+
+    - MMA gif Generator
+        - https://anthonyme0328.github.io/Giphy_HW_AME/
+        - https://github.com/Anthonyme0328/Giphy_HW_AME
+    
+    - train schedule
+        - https://anthonyme0328.github.io/Train_Schedule_AME/
+        - https://github.com/Anthonyme0328/Train_Schedule_AME
+
+    - Date Night Roulette
+        - https://panzemek.github.io/On-The-Town
+        - https://github.com/Panzemek/On-The-Town
+    
 
 
-second attempt at a read me this one has some notes in it
-
-first need to update pictures once i have some right now pics are just place holders
-
-second write a actual about me page, i did the wireframe project originally so this was based off of the solved model that was slacked out
-
-third but related to the first, need to take a picture of myself for about me page
-
-fourth in future i am going to change the background color
-
-<!-- once we learn how to use more look into changing contact for into this from this link
-
-https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form
- 
- -->
