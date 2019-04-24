@@ -1,8 +1,36 @@
 #mePic{
-    height: 300px;
-    width: 275px;
+    height: 400px;
+    width: 375px;
+}
+
+body{
+    background-image: url("trees.jpeg")
+}
+
+.about{
+    text-align: left;
+    margin-left: 25px
 }
 
 #quoteText{
     text-align: center;
 }
+
+.jumbotron{
+    width:100%
+}
+
+.card{
+    margin-left:25%;
+    margin-top: 5%
+}
+
+#portTitle{
+    text-align: center
+}
+
+.jumbotron{
+    color: #80BD9E;
+}
+
+
