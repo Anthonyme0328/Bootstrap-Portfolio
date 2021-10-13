@@ -20,9 +20,9 @@
         - https://anthonyme0328.github.io/Giphy_HW_AME/
         - https://github.com/Anthonyme0328/Giphy_HW_AME
     
-    - Elevated App
-        - https://elevated-shadow.herokuapp.com/
-        - https://github.com/QuantumPhilosophy/elevated
+    - Rock Paper Scissors Advanced Game
+        - https://anthonyme0328.github.io/Rock_Paper_Scissors_Game/
+        - https://github.com/Anthonyme0328/Rock_Paper_Scissors_Game
 
     - Date Night Roulette
         - https://anthonyme0328.github.io/On-The-Town-AME/
